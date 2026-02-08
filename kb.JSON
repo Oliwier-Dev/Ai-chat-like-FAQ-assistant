@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "What is the agency and how does it work?",
+    "answer": "We are a full-service digital agency focused on building websites, web apps, and SaaS MVPs for small businesses and startups. We run discovery, design, development, QA, deployment and optional growth services. Clients request a proposal, approve scope and milestones, and we deliver in iterative sprints with regular demos.",
+    "keywords": [
+      "digital agency","web development","web app","SaaS","MVP","design","UX","UI","development","agency","full service","product studio","startup","small business","proposal","sprint","milestones","deployment","QA","testing","iterative","consulting","custom software","agency model","project management","agile"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How do I start a project or request a quote?",
+    "answer": "Use the website contact form or email to request a discovery call, share basic requirements and goals, and we’ll send a short intake questionnaire. After the call we provide a proposal with scope, timeline, deliverables and cost options.",
+    "keywords": [
+      "request quote","contact","discovery call","intake","proposal","scope","timeline","deliverables","cost","estimate","RFP","brief","contact form","email","call","consultation","pricing options","walkthrough","requirements","kickoff"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What services do you offer?",
+    "answer": "We offer product discovery, UI/UX design, front-end and back-end development, API integrations, hosting & devops, QA and automated testing, analytics, SEO basics, and post-launch growth and maintenance plans.",
+    "keywords": [
+      "services","design","UX/UI","frontend","backend","API","integration","devops","hosting","QA","testing","analytics","SEO","maintenance","support","growth","consulting","product discovery","prototype","MVP","technical audit"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How is pricing structured?",
+    "answer": "We use three pricing models: fixed-price for well-scoped projects, time & materials for flexible work, and retainers for ongoing maintenance or growth. Each proposal lists deliverables, hourly rates (if applicable), payment milestones and optional extras.",
+    "keywords": [
+      "pricing","fixed price","time and materials","T&M","retainer","hourly rate","milestones","proposal cost","estimate","budget","scope creep","change order","invoice","deposit","payment schedule","extra cost","optional add-ons","billing"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is the typical project timeline?",
+    "answer": "Timelines depend on scope: a small brochure site 2–4 weeks, an MVP 6–12 weeks, and complex platforms 3+ months. Proposals include a realistic timetable with sprint dates, review windows and buffer for revisions.",
+    "keywords": [
+      "timeline","delivery time","schedule","sprint","milestone","weeks","months","MVP timeline","project plan","lead time","ETA","deadline","review window","revision time","buffer","launch date","roadmap","phases"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "How do you communicate during a project?",
+    "answer": "Primary communication is via email and an agreed chat tool (Slack/Teams). We schedule weekly demos and sprint reviews, use a project board for tasks, and keep all decisions and assets in a shared drive to ensure transparency.",
+    "keywords": [
+      "communication","Slack","Teams","email","weekly demo","sprint review","project board","Trello","Jira","Asana","shared drive","Google Drive","transparency","status update","meeting","notes","record decisions","stakeholders","reporting"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "How do you protect my data and privacy?",
+    "answer": "We use secure repositories and encrypted storage, limit access to need-to-know team members, use 2FA for accounts, sign NDAs on request, and follow GDPR/industry best practices for personal data handling.",
+    "keywords": [
+      "privacy","GDPR","data protection","encryption","2FA","NDA","security","access control","secure storage","compliance","personal data","backup","incident response","data retention","confidentiality","secure repo","audit logs"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept bank transfers, card payments, and online payment platforms (Stripe/PayPal) depending on region. For fixed-price projects we typically require a deposit and milestone payments. Retainers are billed monthly.",
+    "keywords": [
+      "payment","bank transfer","wire","SEPA","card","credit card","Stripe","PayPal","deposit","milestone payment","invoice","monthly retainer","billing","payment terms","due date","late fee","payment gateway","currency"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Do you work remotely or on-site?",
+    "answer": "We primarily work remotely but can attend on-site meetings for onboarding, workshops, or handover if requested. Remote work includes scheduled video calls, screen sharing and documented outputs to keep alignment.",
+    "keywords": [
+      "remote","on site","onsite","work mode","video call","workshop","onboarding","handover","travel","meeting","virtual","screen share","co-location","client visit","kickoff workshop","remote collaboration"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "How can clients avoid scams or low-quality vendors?",
+    "answer": "Verify references and portfolio, ask for a clear proposal and milestones, request a small paid pilot for critical work, check legal terms and IP assignment, and avoid vendors who insist on full payment upfront without contract or escrow.",
+    "keywords": [
+      "scam prevention","due diligence","references","portfolio","pilot project","escrow","contract","terms","milestones","red flags","vetting","background check","reviews","test task","proof of work","quality assurance"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Can I edit scope or request changes after the project starts?",
+    "answer": "Yes. Change requests are handled via formal change orders: we estimate impact on time and cost, update the plan and seek client approval before work continues to avoid scope creep and missed deadlines.",
+    "keywords": [
+      "change request","scope change","change order","scope creep","estimate impact","approval","variation","additional cost","timeline update","contract amendment","change log","revision request","feature request"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Do you offer priority or promoted service options?",
+    "answer": "We offer premium packages with priority scheduling, faster SLAs, and dedicated teams for clients who need accelerated delivery or ongoing high-touch support. Pricing and terms vary by package.",
+    "keywords": [
+      "priority support","premium package","SLA","dedicated team","priority scheduling","fast track","service level","expedite","VIP","retainer","support tiers","premium plan","rush delivery","dedicated PM"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "What warranty or maintenance do you provide after launch?",
+    "answer": "All projects include a limited warranty period for bug fixes (usually 30–90 days) and optional maintenance plans for ongoing updates, security patches and feature work under a monthly retainer.",
+    "keywords": [
+      "warranty","bug fix","maintenance","support plan","retainer","security patch","SLA","post launch","bug backlog","patch","hotfix","patch schedule","maintenance window","Uptime"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "How are disputes and refunds handled?",
+    "answer": "We resolve issues through documented communication and escalation. Refunds are considered per contract terms and based on work completed and deliverables. For payment disputes use the invoice and milestone records as evidence.",
+    "keywords": [
+      "dispute","refund","escalation","contract terms","milestone dispute","work completed","invoice","evidence","mediation","arbitration","customer support","refund policy","credit note"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Who owns the intellectual property (IP)?",
+    "answer": "IP assignment is defined in the contract. Typically, clients receive ownership of final deliverables after full payment; we may retain rights to reusable components or open-source libraries. Custom ownership clauses can be negotiated.",
+    "keywords": [
+      "intellectual property","IP","ownership","assignment","license","source code","deliverables","open source","proprietary","transfer of rights","contract clause","copyright","work for hire"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "What data do you collect and how is it stored?",
+    "answer": "We collect project-relevant data (requirements, assets, user test data) and store it in secure cloud storage with access controls. Sensitive customer data is minimized and only stored if necessary and authorized by the client.",
+    "keywords": [
+      "data collection","storage","cloud storage","access control","sensitive data","PII","data minimization","backup","retention","encryption","secure storage","data policy","asset storage","test data"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "What happens during onboarding?",
+    "answer": "Onboarding includes a kickoff meeting, stakeholder alignment, access provisioning, shared project board, initial discovery tasks, and delivery of a detailed project plan and schedule to begin the first sprint.",
+    "keywords": [
+      "onboarding","kickoff","stakeholder alignment","access","project board","discovery","initial tasks","schedule","sprint 0","setup","credentials","roles","responsibilities","welcome pack"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Which technologies and stacks do you use?",
+    "answer": "We choose technologies to fit the project: common stacks include React or Vue for front-end, Node.js, Python or Ruby for back-end, PostgreSQL or MongoDB for databases, and Docker/Kubernetes for deployment. Tech choices are justified in the proposal.",
+    "keywords": [
+      "technology","stack","React","Vue","Angular","Node.js","Python","Django","Ruby on Rails","PostgreSQL","MongoDB","MySQL","Docker","Kubernetes","serverless","AWS","GCP","Azure","tech selection"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Who is responsible for design vs development?",
+    "answer": "Design and development responsibilities are defined in the scope. Typically we deliver design prototypes and assets; our engineers implement them. Clients provide brand guidelines, content and final approvals.",
+    "keywords": [
+      "design","development","responsibility","handover","prototype","Figma","Sketch","assets","brand guidelines","content","approval","UX handoff","design system","implementation"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Do you handle hosting and deployment?",
+    "answer": "Yes. We provide hosting and deployment as part of projects or via managed hosting plans. Options include cloud providers, container orchestration and CI/CD pipelines. We document access and run scheduled backups.",
+    "keywords": [
+      "hosting","deployment","CI/CD","AWS","GCP","Azure","managed hosting","backup","rollback","deploy pipeline","infrastructure","server","container","Docker","Kubernetes","deployment script"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Do you provide SEO and marketing services?",
+    "answer": "We provide technical SEO, on-page optimization, performance improvements, and integration with analytics. For broader marketing (ads, content, PR) we offer partnerships or refer trusted vendors depending on client needs.",
+    "keywords": [
+      "SEO","technical SEO","on page","performance","analytics","Google Analytics","search ranking","meta tags","sitemap","structured data","marketing","ads","content marketing","growth","conversion rate"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "What analytics and reporting do you provide?",
+    "answer": "We set up analytics (GA4, server metrics), create dashboards for key metrics, and deliver monthly or per-sprint performance reports showing traffic, conversions, errors, and feature usage to inform product decisions.",
+    "keywords": [
+      "analytics","reporting","dashboard","GA4","metrics","KPIs","traffic","conversions","errors","feature usage","monthly report","performance report","log","monitoring","observability"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Can you integrate third-party APIs and services?",
+    "answer": "Yes. We integrate payment gateways, CRMs, shipping providers, authentication providers and other APIs. Integration proposals include scopes, security considerations and failure handling strategies.",
+    "keywords": [
+      "API","integration","payment gateway","Stripe","PayPal","CRM","Salesforce","HubSpot","auth","OAuth","webhook","connector","third party","integration plan","error handling"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "How do you approach scaling and performance?",
+    "answer": "We design for scalability using profiling, caching, horizontal scaling, CDNs, and load testing. Architecture choices are aligned with expected traffic and budget; we provide a growth plan for future scaling needs.",
+    "keywords": [
+      "scaling","performance","load testing","CDN","cache","profiling","horizontal scaling","vertical scaling","autoscaling","bottleneck","performance audit","optimization","throughput","latency"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Can you work with international clients and handle taxes?",
+    "answer": "Yes. We work with international clients; billing and tax treatment depend on client location and local law. We issue invoices, can include VAT where applicable, and recommend clients consult local tax advisors for compliance.",
+    "keywords": [
+      "international","billing","VAT","tax","invoice","cross border","currency","exchange","tax compliance","GST","VAT invoice","Skatteverket","tax advisor","global clients"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "What are the contract and invoicing terms?",
+    "answer": "Contracts specify scope, IP, payment terms, confidentiality, termination and warranties. Standard invoicing is net 14–30 days; fixed projects include deposit and milestone invoices. Custom terms available for enterprise clients.",
+    "keywords": [
+      "contract","invoice","payment terms","net 30","deposit","milestone invoice","termination","NDA","T&Cs","warranty","SLA","service agreement","billing cycle","enterprise terms"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Do you provide portfolio or case studies?",
+    "answer": "Yes. We maintain a portfolio and case studies demonstrating past projects, outcomes and client testimonials. Detailed case studies include scope, technologies, timeline and measurable results where permitted by client confidentiality.",
+    "keywords": [
+      "portfolio","case study","testimonial","references","past work","showcase","outcomes","results","client story","credentials","samples","work examples","confidentiality"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "What support and SLA options do you offer?",
+    "answer": "Support tiers range from basic email support to 24/7 incident response under premium SLAs. Response and resolution times depend on the selected plan and are documented in the service agreement.",
+    "keywords": [
+      "support","SLA","response time","incident response","24/7","uptime","priority","helpdesk","ticketing","support plan","resolution time","escalation path","on call"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "How are cancellations and refunds handled?",
+    "answer": "Cancellation policies are defined in the contract. For fixed-price work we invoice for work completed and return remaining deliverables; refunds are prorated based on effort and milestones. For retainers, we provide notice periods and final settlement.",
+    "keywords": [
+      "cancellation","refund","prorated","termination","notice period","final invoice","work completed","milestone settlement","retainer cancellation","refund policy","contract termination","settlement"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "How can a client maximize ROI and get fast wins?",
+    "answer": "Focus on a narrow, testable MVP with measurable outcomes, prioritize conversion paths, reduce launch time with templates and proven components, track metrics, and iterate quickly based on real user data to improve ROI fast.",
+    "keywords": [
+      "ROI","MVP","fast wins","conversion","A/B test","prioritization","launch quickly","templates","reusable components","metrics","iterate","user data","growth loop","CRO","focus"
+    ]
+  }
+]
